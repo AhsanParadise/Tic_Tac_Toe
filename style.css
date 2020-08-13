@@ -13,7 +13,7 @@ h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   letter-spacing: 20px;
   cursor: pointer;
-  animation: drop 7s ease; /* Make things beautiful */
+  animation: drop 7s ease;
 }
 h1:hover {
   transition: 2s;
